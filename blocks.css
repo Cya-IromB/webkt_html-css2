@@ -1,0 +1,13 @@
+.blocks{
+  border: solid 1px #eee;
+  width: 20px;
+  height: 20px;
+  color: #222;
+  padding: 10px;
+  margin: 10px;
+  
+}
+#a{background: #f00;}
+#b{background: #0f0;}
+#c{background: #00f;}
+#d{background: #ff0;}

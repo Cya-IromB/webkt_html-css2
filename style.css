@@ -1,0 +1,8 @@
+*{
+  color: #efefef;
+  background-color: #222222;
+}
+
+h1:hover{
+  color: #ff2222;
+}
